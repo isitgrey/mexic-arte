@@ -1,4 +1,4 @@
-# Evento
+# Evento for Mexic-Arte
 
 Evento is a minimal, responsive theme for Jekyll. The projects allows people, groups or companies to host and show a list future and past events.
 
